@@ -39,7 +39,7 @@
 - ⚽ 🇪🇸 **[La Liga 2025/26 Prediction](https://github.com/arrexha/La-Liga-2025-26-Prediction)**  
    Predicts the La Liga table using a Random Forest Classifier  
 
-- 🌐 **[Portfolio Website](arrexha.netlify.app)** 
+- 🌐 **[Portfolio Website](https://arrexha.netlify.app/)** 
 
   Personal website with dark mode and project showcase  
 
