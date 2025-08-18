@@ -22,7 +22,8 @@
 - 🌐 **Portfolio Website** (coming soon 🚀)  
   Personal website with dark mode and project showcase  
 
-- ☁️ **Weather App  (https://github.com/arrexha/Weather-Py)** 
+- ☁️ **Weather App  (https://github.com/arrexha/Weather-Py)**
+  
   Weather Py is a simple Python application that retrieves real-time weather information from the 
 OpenWeatherMap API and displays it in a user-friendly Tkinter GUI.
 
