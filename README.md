@@ -37,7 +37,7 @@
   Predicts the Premier League table using a Random Forest Classifier
   
 - ⚽ 🇪🇸 **[La Liga 2025/26 Prediction](https://github.com/arrexha/La-Liga-2025-26-Prediction)**  
-  Predicts the La Liga table using a Random Forest Classifier  
+   Predicts the La Liga table using a Random Forest Classifier  
 
 - 🌐 **[Portfolio Website](https://github.com/arrexha/Portfolio-Website))** 
 
@@ -46,12 +46,12 @@
 - ☁️ **[Weather App ](https://github.com/arrexha/Weather-Py)**
   
   Weather Py is a simple Python application that retrieves real-time weather information from the 
-OpenWeatherMap API and displays it in a user-friendly Tkinter GUI.
+  OpenWeatherMap API and displays it in a user-friendly Tkinter GUI.
 
 - 🍴 **[Grilli-Restaurant](https://github.com/arrexha/Grilli-Restaurant)**
 
-A modern and responsive restaurant website built with HTML, CSS, and JavaScript.
-Browse the menu, enjoy smooth animations, and experience a seamless interface across all devices.
+  A modern and responsive restaurant website built with HTML, CSS, and JavaScript.
+  Browse the menu, enjoy smooth animations, and experience a seamless interface across all devices.
 
 ## 🌍 Let's Connect
 - GitHub: [@arrexha](https://github.com/arrexha)  
