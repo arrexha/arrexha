@@ -31,7 +31,7 @@ OpenWeatherMap API and displays it in a user-friendly Tkinter GUI.
 - GitHub: [@arrexha](https://github.com/arrexha)  
 - LinkedIn: *(https://www.linkedin.com/in/ar-r-893293136/)*  
 - Email: *(arrexha529@gmail.com)*
-- **CV:** <a href="./Ar%20Rexha.pdf" download>📄 Get my CV</a
+- **CV:** <a href="./Ar%20Rexha.pdf" download>📄 Get my CV
 ---
 
 ⭐️ From [Ar Rexha](https://github.com/arrexha)
