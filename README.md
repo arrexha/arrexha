@@ -1,7 +1,7 @@
 # Hi there, I'm Ar Rexha 👋
 
 🎓 Computer Science & Engineering  
-💻 Passionate about **Python, Web Development, and AI**  
+💻 Passionate about **Python, Web Development**  
 ⚽ Exploring **sports analytics & prediction models**  
 🚀 Always learning, building, and contributing to open-source  
 
