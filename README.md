@@ -58,6 +58,8 @@
 - LinkedIn: *(https://www.linkedin.com/in/ar-r-893293136/)*  
 - Email: *(arrexha529@gmail.com)*
 - **CV:** <a href="./Ar%20Rexha.pdf" download>📄 Get my CV
+- Portfolio*(arrexha.netlify.app)
+
 ---
 
 ⭐️ From [Ar Rexha](https://github.com/arrexha)
