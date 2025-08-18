@@ -8,12 +8,30 @@
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, JavaScript, C++, Java  
-- **Web**: HTML, CSS, React, Flask  
-- **Data & AI**: Pandas, NumPy, scikit-learn, TensorFlow  
-- **Other**: Git, GitHub, VS Code, Linux  
 
----
+- **Languages**  
+  ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=blue)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+
+- **Web**  
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+
+- **Data & AI**  
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+
+- **Other Tools**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)  
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 📌 Featured Projects
 - ⚽ **[Premier League 2025/26 Prediction](https://github.com/arrexha/Premier-League-2025-26-Predition)**  
