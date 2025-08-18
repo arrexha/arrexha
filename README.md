@@ -44,7 +44,7 @@
   Weather Py is a simple Python application that retrieves real-time weather information from the 
 OpenWeatherMap API and displays it in a user-friendly Tkinter GUI.
 
-- 🍴 **( Grilli-Restaurant)(https://github.com/arrexha/Grilli-Restaurant)""
+- 🍴 **[Grilli-Restaurant](https://github.com/arrexha/Grilli-Restaurant)""
 A modern and responsive restaurant website built with HTML, CSS, and JavaScript.
 Browse the menu, enjoy smooth animations, and experience a seamless interface across all devices.
 
