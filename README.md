@@ -1,5 +1,4 @@
-# Hi there, 
-#I'm Ar Rexha 👋
+# Hi there,I'm Ar Rexha 👋
 
 🎓 Computer Science & Engineering  
 💻 Passionate about **Python, Web Development**  
