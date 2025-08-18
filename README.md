@@ -36,7 +36,7 @@
 - ⚽ **[Premier League 2025/26 Prediction](https://github.com/arrexha/Premier-League-2025-26-Predition)**  
   Predicts the Premier League table using a Random Forest Classifier
   
-- ⚽ 🇪🇸 **[La Liga 2025/26 Prediction](https://github.com/arrexha/La-Liga-2025-26-Prediction)**  
+- ⚽ <span class="fi fi-es"></span> **[La Liga 2025/26 Prediction](https://github.com/arrexha/La-Liga-2025-26-Prediction)**  
   Predicts the La Liga table using a Random Forest Classifier  
 
 - 🌐 **Portfolio Website** (coming soon 🚀)  
