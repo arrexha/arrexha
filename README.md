@@ -34,7 +34,8 @@
 
 ## 📌 Featured Projects
 -    **[Soccer-Dashboard](https://github.com/arrexha/Soccer-Dashboard)**
-  A comprehensive, interactive web application for analyzing soccer statistics and predictions, built with Streamlit and Plotly.
+
+ A comprehensive, interactive web application for analyzing soccer statistics and predictions, built with Streamlit and Plotly.
  This professional analytics platform provides real-time insights into player performance, team analytics, league standings, and AI-powered match predictions.  
    
 
