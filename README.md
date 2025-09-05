@@ -33,7 +33,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📌 Featured Projects
--    **[Soccer-Dashboard](https://github.com/arrexha/Soccer-Dashboard)**
+-**[Soccer-Dashboard](https://github.com/arrexha/Soccer-Dashboard)**
 
   A comprehensive, interactive web application for analyzing soccer statistics and predictions, built with Streamlit and Plotly.
   This professional analytics platform provides real-time insights into player performance, team analytics, league standings, and AI-powered match predictions.  
