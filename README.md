@@ -47,7 +47,7 @@
   
 - ⚽ **[Spanish-Football-Tracker](https://github.com/arrexha/Spanish-Football-Tracker)**
 
- A comprehensive web application for tracking Spanish-Football-Tracker season statistics, standings, match results, and player performance analysis.
+  A comprehensive web application for tracking Spanish-Football-Tracker season statistics, standings, match results, and player performance analysis.
 
 - 🌐 **[Portfolio Website](https://arrexha.netlify.app/)** 
 
