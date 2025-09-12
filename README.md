@@ -63,7 +63,6 @@
   Browse the menu, enjoy smooth animations, and experience a seamless interface across all devices.
 
 ## 🌍 Let's Connect
-- GitHub: [@arrexha]https://github.com/arrexha  
 - LinkedIn: *https://www.linkedin.com/in/ar-r-893293136/*  
 - Email: *arrexha529@gmail.com*
 - **CV:** <a href="./Ar%20Rexha.pdf" download>📄 Get my CV
