@@ -45,7 +45,7 @@
 - ⚽ 🇪🇸 **[La Liga 2025/26 Prediction](https://github.com/arrexha/La-Liga-2025-26-Prediction)**  
    Predicts the La Liga table using a Random Forest Classifier
   
-- ⚽ **[Spanish-Football-Tracker](https://github.com/arrexha/Spanish-Football-Tracker)**
+- ⚽ **[Spanish Football Analytics Platform](https://github.com/arrexha/Spanish-Football-Tracker)**
 
   A comprehensive web application for tracking Spanish-Football-Tracker season statistics, standings, match results, and player performance analysis.
 
