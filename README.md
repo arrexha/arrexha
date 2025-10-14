@@ -57,11 +57,6 @@
   
   A simple weather application written in Python that retrieves and displays current weather information for a given location using a public weather API.
 
-- 🍴 **[Grilli-Restaurant](https://github.com/arrexha/Grilli-Restaurant)**
-
-  A modern and responsive restaurant website built with HTML, CSS, and JavaScript.
-  Browse the menu, enjoy smooth animations, and experience a seamless interface across all devices.
-
 ## 🌍 Let's Connect
 - LinkedIn: *https://www.linkedin.com/in/ar-r-893293136/*  
 - Email: *arrexha529@gmail.com*
