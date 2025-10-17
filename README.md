@@ -2,7 +2,6 @@
 
 🎓 Computer Science & Engineering  
 💻 Passionate about **Python, Web Development**  
-⚽ Exploring **sports analytics & prediction models**  
 🚀 Always learning, building, and contributing to open-source  
 
 ---
