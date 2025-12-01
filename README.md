@@ -12,6 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
@@ -19,6 +20,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 <!-- ### Data & AI
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -59,7 +61,7 @@
 ## 🌍 Let's Connect
 - LinkedIn: *https://www.linkedin.com/in/ar-r-893293136/*  
 - Email: *arrexha529@gmail.com*
-- **CV:** <a href="./Ar%20Rexha.pdf" download>📄 Get my CV
+- **CV:** <a href="/read/arrexha/assect/Ar Rexha.pdf" download>📄 Get my CV
 - Portfolio *https://arrexha.netlify.app/*
 
 ---
