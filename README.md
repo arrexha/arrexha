@@ -60,7 +60,7 @@
 ## 🌍 Let's Connect
 - LinkedIn: *https://www.linkedin.com/in/ar-r-893293136/*  
 - Email: *arrexha529@gmail.com*
-- **CV:** <a href="/read/arrexha/assect/Ar Rexha.pdf" download>📄 Get my CV</a>
+- **CV:** <a href="Ar Rexha.pdf" download>📄 Get my CV</a>
 - Portfolio *https://arrexha.netlify.app/*
 
 ---
