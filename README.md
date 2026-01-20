@@ -28,6 +28,10 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📌 Featured Projects
+- 🚀 **[Crypoto Tracker](https://github.com/arrexha/Crypto_Tracker)**
+
+Real-time cryptocurrency prices and market data
+
 
 - ⚽ **[Football Statistics Dashboard](https://github.com/arrexha/Football-Statistics-Dashboard)**
 
@@ -37,12 +41,6 @@
 - ⚽ **[Premier League 2025/26 Prediction](https://github.com/arrexha/Premier-League-2025-26-Predition)**  
   Predicts the Premier League table using a Random Forest Classifier
   
-- ⚽ 🇪🇸 **[La Liga 2025/26 Prediction](https://github.com/arrexha/La-Liga-2025-26-Prediction)**  
-   Predicts the La Liga table using a Random Forest Classifier
-  
-- ⚽ **[Spanish Football Analytics Platform](https://github.com/arrexha/Spanish-Football-Tracker)**
-
-  A comprehensive web application for tracking Spanish-Football-Tracker season statistics, standings, match results, and player performance analysis.
 
 - 🌐 **[Portfolio Website](https://arrexha.netlify.app/)** 
 
