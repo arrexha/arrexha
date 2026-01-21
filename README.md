@@ -51,7 +51,7 @@ Real-time cryptocurrency prices and market data
   A simple weather application written in Python that retrieves and displays current weather information for a given location using a public weather API.
 
 ## 🌍 Let's Connect
-- LinkedIn: *https://www.linkedin.com/in/ar-r-893293136/*  
+- LinkedIn: *https://www.linkedin.com/in/arrexha/*  
 - Email: *arrexha529@gmail.com*
 - **CV:** <a href="Ar Rexha.pdf" download>📄 Get my CV</a>
 - Portfolio *https://arrexha.netlify.app/*
