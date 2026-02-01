@@ -30,25 +30,25 @@
 ## 📌 Featured Projects
 - 🚀 **[Crypoto Tracker](https://github.com/arrexha/Crypto_Tracker)**
 
- -Real-time cryptocurrency prices and market data
+   Real-time cryptocurrency prices and market data
 
 
 - ⚽ **[Football Statistics Dashboard](https://github.com/arrexha/Football-Statistics-Dashboard)**
 
-   -A comprehensive, interactive web application for analyzing soccer statistics and predictions, built with   Streamlit and Plotly.
-    This professional analytics platform provides real-time insights into player performance, team analytics, league standings, and AI-powered match predictions.  
+   A comprehensive, interactive web application for analyzing soccer statistics and predictions, built with   Streamlit and Plotly.
+   This professional analytics platform provides real-time insights into player performance, team analytics, league standings, and AI-powered match predictions.  
 
 - ⚽ **[Premier League 2025/26 Prediction](https://github.com/arrexha/Premier-League-2025-26-Predition)**
- -Predicts the Premier League table using a Random Forest Classifier
+   Predicts the Premier League table using a Random Forest Classifier
   
 
 - 🌐 **[Portfolio Website](https://arrexha.netlify.app/)** 
 
- -Personal website with dark mode and project showcase  
+   Personal website with dark mode and project showcase  
 
 - ☁️ **[Weather-App](https://github.com/arrexha/Weather-App)**
   
- -A simple weather application written in Python that retrieves and displays current weather information for a given location using a public weather API.
+    A simple weather application written in Python that retrieves and displays current weather information for a given location using a public weather API.
 
 ## 🌍 Let's Connect
 - LinkedIn: *https://www.linkedin.com/in/arrexha/*  
