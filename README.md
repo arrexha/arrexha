@@ -30,7 +30,7 @@
 ## 📌 Featured Projects
 - 🚀 **[Crypoto Tracker](https://github.com/arrexha/Crypto_Tracker)**
 
-Real-time cryptocurrency prices and market data
+  Real-time cryptocurrency prices and market data
 
 
 - ⚽ **[Football Statistics Dashboard](https://github.com/arrexha/Football-Statistics-Dashboard)**
