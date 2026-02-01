@@ -35,10 +35,10 @@ Real-time cryptocurrency prices and market data
 
 - ⚽ **[Football Statistics Dashboard](https://github.com/arrexha/Football-Statistics-Dashboard)**
 
-  A comprehensive, interactive web application for analyzing soccer statistics and predictions, built with Streamlit and Plotly.
-  This professional analytics platform provides real-time insights into player performance, team analytics, league standings, and AI-powered match predictions.  
+    A comprehensive, interactive web application for analyzing soccer statistics and predictions, built with Streamlit and Plotly.
+    This professional analytics platform provides real-time insights into player performance, team analytics, league standings, and AI-powered match predictions.  
 
-- ⚽ **[Premier League 2025/26 Prediction](https://github.com/arrexha/Premier-League-2025-26-Predition)**  
+- ⚽ **[Premier League 2025/26 Prediction](https://github.com/arrexha/Premier-League-2025-26-Predition)**
   Predicts the Premier League table using a Random Forest Classifier
   
 
