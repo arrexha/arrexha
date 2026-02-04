@@ -28,27 +28,20 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📌 Featured Projects
-- 🚀 **[Crypoto Tracker](https://github.com/arrexha/Crypto_Tracker)**
-
-   Real-time cryptocurrency prices and market data
-
+- 🚀 **[Crypto Tracker](https://github.com/arrexha/Crypto_Tracker)**
+   Real-time cryptocurrency prices and market data with interactive charts and analysis
 
 - ⚽ **[Football Statistics Dashboard](https://github.com/arrexha/Football-Statistics-Dashboard)**
-
-   A comprehensive, interactive web application for analyzing soccer statistics and predictions, built with   Streamlit and Plotly.
-   This professional analytics platform provides real-time insights into player performance, team analytics, league standings, and AI-powered match predictions.  
+   Interactive analytics platform for soccer statistics and match predictions built with Streamlit and Plotly
 
 - ⚽ **[Premier League 2025/26 Prediction](https://github.com/arrexha/Premier-League-2025-26-Predition)**
-   Predicts the Premier League table using a Random Forest Classifier
-  
+   Predicts Premier League table standings using Machine Learning and Random Forest Classifier
 
-- 🌐 **[Portfolio Website](https://arrexha.netlify.app/)** 
-
-   Personal website with dark mode and project showcase  
+- 🌐 **[Portfolio Website](https://arrexha.netlify.app/)**
+   Personal portfolio website with dark mode, project showcase, and responsive design
 
 - ☁️ **[Weather-App](https://github.com/arrexha/Weather-App)**
-  
-    A simple weather application written in Python that retrieves and displays current weather information for a given location using a public weather API.
+   Weather application that retrieves and displays real-time weather information using public APIs
 
 ## 🌍 Let's Connect
 - Email: *arrexha529@gmail.com*
