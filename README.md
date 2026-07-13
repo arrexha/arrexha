@@ -1,5 +1,6 @@
 # Hi there,I'm Ar Rexha 👋
 
+🛠️ Junior IT @ StarLabs  
 🎓 Computer Science & Engineering  
 💻 Passionate about **Python, Web Development**  
 🚀 Always learning, building, and contributing to open-source  
@@ -12,7 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 ### Web Languages
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
