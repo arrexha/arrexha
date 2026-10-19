@@ -37,6 +37,10 @@
    
    Weather application that retrieves and displays real-time weather information using public APIs
 
+- ⏳ **OneTap**
+   
+   *Coming soon...*
+
 ## 🌍 Let's Connect
 - Email: *arrexha529@gmail.com*
 - LinkedIn: *https://www.linkedin.com/in/arrexha/*  
