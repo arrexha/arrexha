@@ -28,13 +28,6 @@
    
    Real-time cryptocurrency prices and market data with interactive charts and analysis
 
-- ⚽ **[Football Statistics Dashboard](https://github.com/arrexha/Football-Statistics-Dashboard)**
-   
-   Interactive analytics platform for soccer statistics and match predictions built with Streamlit and Plotly
-
-- ⚽ **[Premier League 2025/26 Prediction](https://github.com/arrexha/Premier-League-2025-26-Predition)**
-   
-   Predicts Premier League table standings using Machine Learning and Random Forest Classifier
 
 - 🌐 **[Portfolio Website](https://arrexha.netlify.app/)**
   
